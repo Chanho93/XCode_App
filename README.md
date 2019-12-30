@@ -16,10 +16,12 @@ N서울타워 알바 경험으로 얻는 남산타워 정보 (실제 상용화 x
 
 
 4.사진 확대기능
+
 ![image](https://user-images.githubusercontent.com/48191157/71570861-a7a56580-2b1a-11ea-8a22-179ea8db17dd.png)
 
 
 5.화면 전환
+
 ![image](https://user-images.githubusercontent.com/48191157/71570863-abd18300-2b1a-11ea-8587-fb3a9051a206.png)
 
 6.실제 앱
@@ -35,5 +37,7 @@ N서울타워 알바 경험으로 얻는 남산타워 정보 (실제 상용화 x
 ![image](https://user-images.githubusercontent.com/48191157/71570876-b7bd4500-2b1a-11ea-9419-bca39d137f8c.png)
 
 9.네이버와 구글을 이용한 실제 N서울타워 홈페이지 연결
+
 ![image](https://user-images.githubusercontent.com/48191157/71570877-bc81f900-2b1a-11ea-82a1-0f0b8c22395a.png)
+
 ![image](https://user-images.githubusercontent.com/48191157/71570881-c0158000-2b1a-11ea-981d-5df58c322985.png)
